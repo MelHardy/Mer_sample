@@ -1,2 +1,2 @@
-# Merino_sample
+# Mer_sample
 Sample dataset from MER-1
